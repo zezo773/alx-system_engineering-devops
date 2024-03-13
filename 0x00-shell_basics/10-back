@@ -1,2 +1,10 @@
 #!/bin/bash
+<<<<<<< HEAD
 cd -
+=======
+<<<<<<< HEAD
+cd ..
+=======
+cd -
+>>>>>>> ziad
+>>>>>>> e55f3c59cc69d5ca7e5d202c912e1a877deda300
