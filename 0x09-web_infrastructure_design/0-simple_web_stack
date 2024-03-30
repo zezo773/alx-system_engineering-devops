@@ -1,0 +1,39 @@
+# One-Server Web Infrastructure
+![0-simple_web_stack]
+
+https://imgur.com/42yoFCl
+
+
+## Introduction:
+This README provides an overview of the one-server web infrastructure designed to host the website reachable via www.foobar.com.
+
+## Infrastructure Design:
+**server**: A physical or virtual machine that is dedicated to running software applications and services. in our case the server hosts all the components of the website infrastructure, database, web serve, application server.
+
+**web server (Nginx)**: a web server software that is responsible for handling HTTP requests and serving static content from the file system. It acts as an intermediary between the user and the application server, routing requests for different resources such as images, stylesheets, and scripts.
+
+**Application Server**: The application server runs the code base of the website, processing incoming requests and sending responses back to the web server. It can be written in various programming languages, such as Python, Java, or Ruby.
+
+**application files**: ontains the codebase of the web application.
+
+**Database (MySQL)**: MySQL is a relational database management system that stores data for the website. It provides a structured and normalized way to store and retrieve data, making it easy to manage large amounts of data.
+
+## Specifics Explanation:
+**Server**: A computer system or software providing services to clients over a network.
+
+**Domain Name**: Foobar.com is a domain name that points to the IP address of the server hosting the website. The www record in www.foobar.com is used to redirect users to the main website when they visit foobar.com or www.foobar.com.
+
+**www Record**: CNAME DNS record pointing www subdomain to the main domain.
+
+**Web Server Role**: Handles HTTP requests, URL routing, and content delivery.
+
+**Application Server Role**: Executes server-side code and interacts with databases.
+
+**Database Role**: Stores and manages structured website data.
+
+**Communication**: Server communicates with user's computer via HTTP protocol over the internet.
+
+## Issues with the Infrastructure:
+**Single Point of Failure (SPOF)**: All components of the website infrastructure are hosted on a single server, which means that if this server fails, the entire website will be unavailable.
+**Downtime during Maintenance**: When deploying new code or performing other maintenance tasks, the web server needs to be restarted, which can result in downtime for users accessing the website.
+**Scalability issues**: If too much traffic is generated on the website, the server may become overloaded and unable to handle the increased demand, leading to slower response times or complete failure of the website.
