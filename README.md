@@ -37,7 +37,7 @@ The specific list of projects contained follows:
 
 ## Author :black_nib:
 
-* __Brennan D Baraban__ <[bdbaraban](https://github.com/bdbaraban)>
+* __Ziad Ammar__ <[ziad](https://github.com/zezo773)>
 
 ## Acknowledgements :pray:
 
