@@ -9,7 +9,7 @@ All of the following folders are projects done during the studies:
 | Project name | Description |
 | ------------ | ----------- |
 | [`0x00-shell_basics`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x00-shell_basics) | It aims to learn about basics commands, navigation, files, and directories in **Shell** |
-| [`0x01-shell_permissions`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x01-shell_permissions) | It aims to learn about man pages, permissions (owner, group, and other) of files and directories in **Shell** |
+<!-- | [`0x01-shell_permissions`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x01-shell_permissions) | It aims to learn about man pages, permissions (owner, group, and other) of files and directories in **Shell** |
 | [`0x02-shell_redirections`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x02-shell_redirections) | It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in **Shell** |
 | [`0x03-shell_variable_expansions`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions) | It aims to learn about alias builtin, help builtin, local, global, and reserved variables (PATH, HOME, and PS1), special parameters `$?` and single and double quotes in **Shell** |
 | [`0x04-loops_conditions_and_parsing`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing) | It aims to learn about loops (`while`, `until`, and `for`), condition statements (`if`, `else`, `elif`, and `case`), shebangs, and how to create SSH keys with **Bash** |
@@ -31,7 +31,7 @@ All of the following folders are projects done during the studies:
 | [`0x14-mysql`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x14-mysql) | This aims to learn how to incorporate the use of MySQL in this module |
 | [`0x15-api`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x15-api) | This aims to learn how to incorporate the use of an API in this module |
 | [`Command Line For The Win`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/command_line_for_the_win) | This aims to gain mastery of command line commands across different difficulties |
-| [`Attack Is The Best Defense`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/attack_is_the_best
+| [`Attack Is The Best Defense`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/attack_is_the_best -->
 
 
 ## Author :black_nib:
