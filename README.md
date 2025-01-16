@@ -51,4 +51,3 @@ All work contained in this project was completed as part of the curriculum for *
 ---
 
 Module of **System engineering** and **Devops**, carried out during **Full Stack Software Engineering studies** at **[ALX](https://www.alxafrica.com/)**.
-
