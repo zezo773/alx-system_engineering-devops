@@ -62,6 +62,6 @@ using expansions, performing arithmetic operations, and utilizing aliases.
   * [13-print_float](./13-print_float): Bash script that prints a number stored in the
   environment variable `NUM` with two decimal places.
 
-* **14. Decimal to Hexadecimal**
-  * [14-decimal_to_hexadecimal](./14-decimal_to_hexadecimal): Bash script
+* **100-decimal_to_hexadecimal**
+  * [14-decimal_to_hexadecimal](./100-decimal_to_hexadecimal): Bash script
   that converts a number in base 10 stored in the environment variable `DECIMAL` to base 16.
