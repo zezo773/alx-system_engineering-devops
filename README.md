@@ -1,6 +1,8 @@
 # System engineering & Devops
 
 This repository contains programs written for the system engineering and DevOps track at **Holberton School**. In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks. I learned about the OSI model and various Linux networking tools. Further, I configured a distributed system - two web servers and one load balancer - for deployment of my AirBnB project using Nginx, HAProxy, certbot, ufw, and MySQL. 
+![System engineering & Devops](https://sdmntprnortheu.oaiusercontent.com/files/00000000-61a4-61f4-8c7a-c0fa36ab0d05/raw?se=2025-09-15T10%3A28%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=9b5da4ec-5883-59e0-88d6-673a284700a5&skoid=f28c0102-4d9d-4950-baf0-4a8e5f6cf9d4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-14T18%3A43%3A27Z&ske=2025-09-15T18%3A43%3A27Z&sks=b&skv=2024-08-04&sig=2LfEXw2IDXHIBLu27rjsAlqwl0f8OfiHAWtnL%2Bc4nWk%3D)
+
 
 ## Projects
 
