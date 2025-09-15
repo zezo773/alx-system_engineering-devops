@@ -1,9 +1,8 @@
 #!/usr/bin/env bash
-# A script that displays Best School 10 times using until
-
-count=19;
-until [ $count -lt 10 ];
-do
-	echo "Best School"
-	((count--))
-done
+# Bash script that displays Best School 10 times with until
+var="Best School"
+i=0
+until (( i == 10 )); do
+	echo "$var"
+	(( i++ ))
+done;

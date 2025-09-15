@@ -1,14 +1,12 @@
 #!/usr/bin/env bash
-# A script that displays Best School 10 times and hi after the 9th using while and if
-
-var=0
-
-while [ $var -lt 10 ];
+#Bash script that displays Best School 10 times, but for the 9th iteration, displays Best School and then Hi on a new line.
+var="Best School"
+count=1
+while (( count <= 10 ));
 do
-	echo "Best School"
-	((var++))
-	if [ $var == 9 ];
-	then
+	echo "$var"
+	if (( count == 9 ));then
 		echo "Hi"
 	fi
+	(( count++ ))
 done
