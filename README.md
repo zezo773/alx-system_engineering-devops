@@ -2,7 +2,7 @@
 
 This repository contains programs written for the system engineering and DevOps track at **Holberton School**. In these projects, I worked with Bash and practiced writing Bash scripts to automate tasks. I learned about the OSI model and various Linux networking tools. Further, I configured a distributed system - two web servers and one load balancer - for deployment of my AirBnB project using Nginx, HAProxy, certbot, ufw, and MySQL. 
 ![System engineering & Devops](https://sdmntprnortheu.oaiusercontent.com/files/00000000-61a4-61f4-8c7a-c0fa36ab0d05/raw?se=2025-09-15T10%3A28%3A54Z&sp=r&sv=2024-08-04&sr=b&scid=9b5da4ec-5883-59e0-88d6-673a284700a5&skoid=f28c0102-4d9d-4950-baf0-4a8e5f6cf9d4&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-09-14T18%3A43%3A27Z&ske=2025-09-15T18%3A43%3A27Z&sks=b&skv=2024-08-04&sig=2LfEXw2IDXHIBLu27rjsAlqwl0f8OfiHAWtnL%2Bc4nWk%3D)
-
+`
 
 ## Projects
 
@@ -15,7 +15,7 @@ All of the following folders are projects done during the studies:
 | [`0x02-shell_redirections`](https://github.com/zezo773/alx-system_engineering-devops/tree/master/0x02-shell_redirections) | It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in **Shell** |
 | [`0x03-shell_variable_expansions`](https://github.com/zezo773/alx-system_engineering-devops/tree/master/0x01-shell_permissions) | It aims to learn about alias builtin, help builtin, local, global, and reserved variables (PATH, HOME, and PS1), special parameters `$?` and single and double quotes in **Shell** |
 | [`0x04-loops_conditions_and_parsing`](https://github.com/zezo773/alx-system_engineering-devops/tree/master/0x04-loops_conditions_and_parsing) | It aims to learn about loops (`while`, `until`, and `for`), condition statements (`if`, `else`, `elif`, and `case`), shebangs, and how to create SSH keys with **Bash** |
-<!-- | [`0x05-processes_and_signals`](https://github.com/aysuarex/alx-system_engineering-devops/tree/master/0x05-processes_and_signals) | It aims to learn about PID, processes and commands that handle them (`ps`, `pgrep`, `pkill`, `kill`, etc) in **Bash** | -->
+| [`0x05-processes_and_signals`](https://github.com/zezo773/alx-system_engineering-devops/tree/master/0x05-processes_and_signals) | It aims to learn about PID, processes and commands that handle them (`ps`, `pgrep`, `pkill`, `kill`, etc) in **Bash** |
 <!-- | [`0x06-regular_expressions`](https://github.com/aysuarex/alx-system_engineering-devops/edit/master/0x06-regular_expressions) | It aims to learn about how to build a regular expression | -->
 <!-- | [`0x07-networking_basics`](https://github.com/aysuarex/alx-system_engineering-devops/edit/master/0x07-networking_basics) | It aims to learn about what is an OSI model, LAN, WAN, IP address, localhost, subnet, and TCP/UDP | -->
 <!-- | [`0x08-networking_basics_2`](https://github.com/aysuarex/alx-system_engineering-devops/edit/master/0x08-networking_basics_2) | It aims to learn about what is localhost/127.0.0.1, what is 0.0.0.0, what is `/etc/hosts`, and how to display the machine's active network interfaces | -->
