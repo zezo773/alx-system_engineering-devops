@@ -1,7 +1,8 @@
 # Regular expression
 Project done during **Full Stack Software Engineering studies** at **Holberton School**. It aims to learn about how to build a regular expression.
-![Regex Problems](https://savanna.alxafrica.com/images/contents/sysadmin/concepts/29/regex_now_2_problems.jpg)
 
+
+![Regex Problems](https://savanna.alxafrica.com/images/contents/sysadmin/concepts/29/regex_now_2_problems.jpg)
 ## Technologies
 * Scripts written in Bash 4.3.11(1)
 * Tested on Ubuntu 14.04 LTS
